@@ -1,2 +1,4 @@
 # Repositorio_productos
-Gilberto de la Cruz Romero
+Gilberto de la Cruz 
+# Descripción
+Base de datos
